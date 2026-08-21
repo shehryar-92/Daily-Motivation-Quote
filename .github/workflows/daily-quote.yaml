@@ -1,0 +1,35 @@
+name: Daily Motivation Quote
+
+on:
+  schedule:
+    # 07:00 AM PKT = 02:00 UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+jobs:
+  post-quote:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch quote and update files
+        run: python scripts/fetch_quote.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "shehryar-92"
+          git config user.email "150334794+shehryar-92@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Update daily motivation quote"
+          git push
