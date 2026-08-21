@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Placeholder — this section is replaced automatically on first run."
+> "We know nothing of tomorrow, our business is to be good and happy today."
 >
-> — Bot
+> — Sydney Smith
 
-_Updated daily at 07:00 AM PKT_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-08-21_
 <!-- QUOTE:END -->
 
 ## How it works
