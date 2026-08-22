@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "We know nothing of tomorrow, our business is to be good and happy today."
+> "Happiness must be grown in one's own garden."
 >
-> — Sydney Smith
+> — Mary Engelbreit
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-08-21_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-08-22_
 <!-- QUOTE:END -->
 
 ## How it works
