@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Duty makes us do things well, but love makes us do them beautifully."
+> "Life is trying things to see if they work."
 >
-> — Zig Ziglar
+> — Ray Bradbury
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-08-23_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-08-24_
 <!-- QUOTE:END -->
 
 ## How it works
