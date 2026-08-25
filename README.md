@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Life is trying things to see if they work."
+> "To be fully alive is to feel that everything is possible."
 >
-> — Ray Bradbury
+> — Eric Hoffer
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-08-24_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-08-25_
 <!-- QUOTE:END -->
 
 ## How it works
