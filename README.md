@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "To be fully alive is to feel that everything is possible."
+> "Success is getting what you want. Happiness is wanting what you get."
 >
-> — Eric Hoffer
+> — Andrew Carnegie
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-08-25_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-08-26_
 <!-- QUOTE:END -->
 
 ## How it works
