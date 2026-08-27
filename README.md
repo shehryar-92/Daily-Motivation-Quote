@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Success is getting what you want. Happiness is wanting what you get."
+> "It is amazing what you can accomplish if you do not care who gets the credit."
 >
-> — Andrew Carnegie
+> — Harry S. Truman
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-08-26_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-08-27_
 <!-- QUOTE:END -->
 
 ## How it works
