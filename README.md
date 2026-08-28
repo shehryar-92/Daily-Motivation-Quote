@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "It is amazing what you can accomplish if you do not care who gets the credit."
+> "Setting goals is the first step in turning the invisible into the visible."
 >
-> — Harry S. Truman
+> — Tony Robbins
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-08-27_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-08-28_
 <!-- QUOTE:END -->
 
 ## How it works
