@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Setting goals is the first step in turning the invisible into the visible."
+> "Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."
 >
-> — Tony Robbins
+> — William Faulkner
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-08-28_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-08-29_
 <!-- QUOTE:END -->
 
 ## How it works
