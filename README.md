@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself."
+> "Showing off is the fool's idea of glory."
 >
-> — William Faulkner
+> — Bruce Lee
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-08-29_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-08-30_
 <!-- QUOTE:END -->
 
 ## How it works
