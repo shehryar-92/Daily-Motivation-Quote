@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Showing off is the fool's idea of glory."
+> "Success is not final, failure is not fatal: it is the courage to continue that counts."
 >
-> — Bruce Lee
+> — Winston Churchill
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-08-30_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-08-31_
 <!-- QUOTE:END -->
 
 ## How it works
