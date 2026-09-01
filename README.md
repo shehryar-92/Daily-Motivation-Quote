@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Success is not final, failure is not fatal: it is the courage to continue that counts."
+> "The scariest moment is always just before you start. After that, things can only get better."
 >
-> — Winston Churchill
+> — Stephen King
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-08-31_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-01_
 <!-- QUOTE:END -->
 
 ## How it works
