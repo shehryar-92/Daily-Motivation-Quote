@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "The scariest moment is always just before you start. After that, things can only get better."
+> "He is not a lover who does not love forever."
 >
-> — Stephen King
+> — Euripides
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-01_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-02_
 <!-- QUOTE:END -->
 
 ## How it works
