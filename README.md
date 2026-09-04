@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "There is no greatness where there is not simplicity, goodness, and truth."
+> "Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."
 >
-> — Leo Tolstoy
+> — Jonathan Swift
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-03_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-04_
 <!-- QUOTE:END -->
 
 ## How it works
