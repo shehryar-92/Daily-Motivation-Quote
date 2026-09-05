@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through."
+> "Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."
 >
-> — Jonathan Swift
+> — Og Mandino
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-04_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-05_
 <!-- QUOTE:END -->
 
 ## How it works
