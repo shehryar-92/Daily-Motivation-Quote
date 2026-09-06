@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Welcome every morning with a smile. Look on the new day as another gift from your Creator, another golden opportunity."
+> "You will not do incredible things without an incredible dream."
 >
-> — Og Mandino
+> — John Eliot
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-05_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-06_
 <!-- QUOTE:END -->
 
 ## How it works
