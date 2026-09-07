@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "You will not do incredible things without an incredible dream."
+> "The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom."
 >
-> — John Eliot
+> — James Allen
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-06_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-07_
 <!-- QUOTE:END -->
 
 ## How it works
