@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "The more tranquil a man becomes, the greater is his success, his influence, his power for good. Calmness of mind is one of the beautiful jewels of wisdom."
+> "Some of us learn from other people's mistakes and the rest of us have to be other people."
 >
-> — James Allen
+> — Zig Ziglar
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-07_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-08_
 <!-- QUOTE:END -->
 
 ## How it works
