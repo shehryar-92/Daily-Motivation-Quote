@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Some of us learn from other people's mistakes and the rest of us have to be other people."
+> "The goal is not to be perfect by the end, the goal is to be better today."
 >
-> — Zig Ziglar
+> — Simon Sinek
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-08_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-09_
 <!-- QUOTE:END -->
 
 ## How it works
