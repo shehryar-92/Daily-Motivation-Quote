@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "The goal is not to be perfect by the end, the goal is to be better today."
+> "As you think, so shall you become."
 >
-> — Simon Sinek
+> — Bruce Lee
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-09_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-10_
 <!-- QUOTE:END -->
 
 ## How it works
