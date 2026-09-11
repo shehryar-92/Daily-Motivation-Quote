@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "As you think, so shall you become."
+> "Your time is limited, so don't waste it living someone else's life."
 >
-> — Bruce Lee
+> — Steve Jobs
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-10_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-11_
 <!-- QUOTE:END -->
 
 ## How it works

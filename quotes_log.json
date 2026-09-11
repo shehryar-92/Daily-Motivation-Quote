@@ -124,5 +124,11 @@
     "quote": "As you think, so shall you become.",
     "author": "Bruce Lee",
     "source": "zenquotes"
+  },
+  {
+    "date": "2026-09-11",
+    "quote": "Your time is limited, so don't waste it living someone else's life.",
+    "author": "Steve Jobs",
+    "source": "local_fallback"
   }
 ]
