@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Your time is limited, so don't waste it living someone else's life."
+> "Do not believe that you will reach your destination without leaving the shore."
 >
-> — Steve Jobs
+> — Chinese Proverb
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-11_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-12_
 <!-- QUOTE:END -->
 
 ## How it works
