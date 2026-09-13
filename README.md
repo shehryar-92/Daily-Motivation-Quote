@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Do not believe that you will reach your destination without leaving the shore."
+> "People are not disturbed by things, but by the views they take of them."
 >
-> — Chinese Proverb
+> — Epictetus
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-12_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-13_
 <!-- QUOTE:END -->
 
 ## How it works
