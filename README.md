@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "People are not disturbed by things, but by the views they take of them."
+> "Truth is like the sun. You can shut it out for a time, but it ain't going away."
 >
-> — Epictetus
+> — Elvis Presley
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-13_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-14_
 <!-- QUOTE:END -->
 
 ## How it works
