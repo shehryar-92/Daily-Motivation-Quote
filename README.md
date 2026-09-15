@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Truth is like the sun. You can shut it out for a time, but it ain't going away."
+> "It always seems impossible until it's done."
 >
-> — Elvis Presley
+> — Nelson Mandela
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-14_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-15_
 <!-- QUOTE:END -->
 
 ## How it works
