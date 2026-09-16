@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "It always seems impossible until it's done."
+> "The more we have the less we own."
 >
-> — Nelson Mandela
+> — Meister Eckhart
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-15_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-16_
 <!-- QUOTE:END -->
 
 ## How it works
