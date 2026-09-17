@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "The more we have the less we own."
+> "Throughout this life, you can never be certain of living long enough to take another breath."
 >
-> — Meister Eckhart
+> — Zen Proverb
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-16_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-17_
 <!-- QUOTE:END -->
 
 ## How it works
