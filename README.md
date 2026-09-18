@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Throughout this life, you can never be certain of living long enough to take another breath."
+> "Start the day with love, spend the day with love, fill the day with love and end the day with love."
 >
-> — Zen Proverb
+> — Sathya Sai Baba
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-17_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-18_
 <!-- QUOTE:END -->
 
 ## How it works
