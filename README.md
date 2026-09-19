@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Start the day with love, spend the day with love, fill the day with love and end the day with love."
+> "Always turn a negative situation into a positive situation."
 >
-> — Sathya Sai Baba
+> — Michael Jordan
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-18_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-19_
 <!-- QUOTE:END -->
 
 ## How it works
