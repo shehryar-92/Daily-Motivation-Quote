@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Always turn a negative situation into a positive situation."
+> "If you think adventure is dangerous, try routine; it is lethal."
 >
-> — Michael Jordan
+> — Paulo Coelho
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-19_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-20_
 <!-- QUOTE:END -->
 
 ## How it works
