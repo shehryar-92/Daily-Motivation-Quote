@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "If you think adventure is dangerous, try routine; it is lethal."
+> "Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing."
 >
-> — Paulo Coelho
+> — Brian Tracy
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-20_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-21_
 <!-- QUOTE:END -->
 
 ## How it works
