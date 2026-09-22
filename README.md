@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing."
+> "It is not enough to win a war; it is more important to organize the peace."
 >
-> — Brian Tracy
+> — Aristotle
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-21_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-22_
 <!-- QUOTE:END -->
 
 ## How it works
