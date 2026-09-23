@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "It is not enough to win a war; it is more important to organize the peace."
+> "Life can be the scariest and most beautiful thing simultaneously."
 >
-> — Aristotle
+> — Maxime Lagace
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-22_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-23_
 <!-- QUOTE:END -->
 
 ## How it works
