@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Life can be the scariest and most beautiful thing simultaneously."
+> "The most important thing in communication is to hear what isn't being said."
 >
-> — Maxime Lagace
+> — Peter Drucker
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-23_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-24_
 <!-- QUOTE:END -->
 
 ## How it works
