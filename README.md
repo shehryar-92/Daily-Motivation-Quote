@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "I cannot make my days longer so I strive to make them better."
+> "Dreams are the touchstones of our characters."
 >
 > — Henry David Thoreau
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-25_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-26_
 <!-- QUOTE:END -->
 
 ## How it works
