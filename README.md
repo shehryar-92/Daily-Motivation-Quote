@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Dreams are the touchstones of our characters."
+> "To love means loving the unlovable."
 >
-> — Henry David Thoreau
+> — Gilbert Chesterton
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-26_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-27_
 <!-- QUOTE:END -->
 
 ## How it works
