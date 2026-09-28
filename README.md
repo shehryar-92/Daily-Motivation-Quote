@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "To love means loving the unlovable."
+> "Your neighbor is the man who needs you."
 >
-> — Gilbert Chesterton
+> — Elbert Hubbard
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-27_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-28_
 <!-- QUOTE:END -->
 
 ## How it works
