@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Your neighbor is the man who needs you."
+> "To handle yourself, use your head; to handle others, use your heart."
 >
-> — Elbert Hubbard
+> — Eleanor Roosevelt
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-28_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-29_
 <!-- QUOTE:END -->
 
 ## How it works
