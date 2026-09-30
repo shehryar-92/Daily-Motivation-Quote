@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "To handle yourself, use your head; to handle others, use your heart."
+> "Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present."
 >
-> — Eleanor Roosevelt
+> — Joan Rivers
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-09-29_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-09-30_
 <!-- QUOTE:END -->
 
 ## How it works
