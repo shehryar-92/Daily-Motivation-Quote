@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Success is not final, failure is not fatal: it is the courage to continue that counts."
+> "Tragedy is a tool for the living to gain wisdom, not a guide by which to live."
 >
-> — Winston Churchill
+> — Robert F. Kennedy
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-01_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-02_
 <!-- QUOTE:END -->
 
 ## How it works
