@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Tragedy is a tool for the living to gain wisdom, not a guide by which to live."
+> "What is planted in each person's soul will sprout."
 >
-> — Robert F. Kennedy
+> — Rumi
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-02_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-03_
 <!-- QUOTE:END -->
 
 ## How it works
