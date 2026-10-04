@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "What is planted in each person's soul will sprout."
+> "Confidence is what you have before you understand the problem."
 >
-> — Rumi
+> — Woody Allen
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-03_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-04_
 <!-- QUOTE:END -->
 
 ## How it works
