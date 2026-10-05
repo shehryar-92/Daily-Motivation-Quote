@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Confidence is what you have before you understand the problem."
+> "Change is hard at first, messy in the middle and gorgeous at the end."
 >
-> — Woody Allen
+> — Robin Sharma
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-04_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-05_
 <!-- QUOTE:END -->
 
 ## How it works
