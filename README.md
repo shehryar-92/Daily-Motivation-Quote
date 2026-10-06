@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Change is hard at first, messy in the middle and gorgeous at the end."
+> "A wise person should have money in their head, but not in their heart."
 >
-> — Robin Sharma
+> — Jonathan Swift
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-05_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-06_
 <!-- QUOTE:END -->
 
 ## How it works
