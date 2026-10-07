@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "A wise person should have money in their head, but not in their heart."
+> "The only way to 'find out if it will work out' is to do it."
 >
-> — Jonathan Swift
+> — Simon Sinek
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-06_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-07_
 <!-- QUOTE:END -->
 
 ## How it works
