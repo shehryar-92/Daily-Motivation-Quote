@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "The only way to 'find out if it will work out' is to do it."
+> "The older you get, the better you get. Unless you're a banana."
 >
-> — Simon Sinek
+> — Betty White
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-07_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-08_
 <!-- QUOTE:END -->
 
 ## How it works
