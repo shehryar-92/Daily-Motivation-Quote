@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "The older you get, the better you get. Unless you're a banana."
+> "With self-discipline, almost anything is possible."
 >
-> — Betty White
+> — Theodore Roosevelt
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-08_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-09_
 <!-- QUOTE:END -->
 
 ## How it works
