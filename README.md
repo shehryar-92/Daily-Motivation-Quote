@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "With self-discipline, almost anything is possible."
+> "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."
 >
-> — Theodore Roosevelt
+> — Tony Robbins
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-09_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-10_
 <!-- QUOTE:END -->
 
 ## How it works
