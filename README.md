@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more."
+> "Life is a balance of holding on and letting go."
 >
-> — Tony Robbins
+> — Rumi
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-10_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-11_
 <!-- QUOTE:END -->
 
 ## How it works
