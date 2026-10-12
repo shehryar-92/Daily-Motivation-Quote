@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Life is a balance of holding on and letting go."
+> "Take care of your cents: dollars will take care of themselves."
 >
-> — Rumi
+> — Thomas Jefferson
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-11_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-12_
 <!-- QUOTE:END -->
 
 ## How it works
