@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Take care of your cents: dollars will take care of themselves."
+> "Happiness is the absence of the striving for happiness."
 >
-> — Thomas Jefferson
+> — Zhuangzi
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-12_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-13_
 <!-- QUOTE:END -->
 
 ## How it works
