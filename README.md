@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Happiness is the absence of the striving for happiness."
+> "Confidence is like a dragon where, for every head cut off, two more heads grow back."
 >
-> — Zhuangzi
+> — Criss Jami
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-13_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-14_
 <!-- QUOTE:END -->
 
 ## How it works
