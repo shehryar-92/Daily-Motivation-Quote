@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Confidence is like a dragon where, for every head cut off, two more heads grow back."
+> "Greatness lies not in being strong, but in the right use of strength."
 >
-> — Criss Jami
+> — Henry Ward Beecher
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-14_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-15_
 <!-- QUOTE:END -->
 
 ## How it works
