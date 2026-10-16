@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Greatness lies not in being strong, but in the right use of strength."
+> "No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way."
 >
-> — Henry Ward Beecher
+> — Kamal Ravikant
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-15_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-16_
 <!-- QUOTE:END -->
 
 ## How it works
