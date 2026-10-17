@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "No matter how smart we may think we are, no matter how committed we are to our truth, we can lose our way."
+> "You just can't beat the person who never gives up."
 >
-> — Kamal Ravikant
+> — Babe Ruth
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-16_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-17_
 <!-- QUOTE:END -->
 
 ## How it works
