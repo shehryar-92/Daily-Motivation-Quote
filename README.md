@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "You just can't beat the person who never gives up."
+> "The strongest and sweetest songs yet remain to be sung."
 >
-> — Babe Ruth
+> — Walt Whitman
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-17_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-18_
 <!-- QUOTE:END -->
 
 ## How it works
