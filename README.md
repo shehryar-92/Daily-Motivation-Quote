@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "The strongest and sweetest songs yet remain to be sung."
+> "Life comes at us in waves. We can't predict or control those waves, but we can learn to surf."
 >
-> — Walt Whitman
+> — Dan Millman
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-18_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-19_
 <!-- QUOTE:END -->
 
 ## How it works
