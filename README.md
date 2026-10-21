@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Remember that sometimes not getting what you want is a wonderful stroke of luck."
+> "One must be poor to know the luxury of giving."
 >
-> — Dalai Lama
+> — George Eliot
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-20_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-21_
 <!-- QUOTE:END -->
 
 ## How it works
