@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "One must be poor to know the luxury of giving."
+> "Chop your own wood and it will warm you twice."
 >
-> — George Eliot
+> — Henry Ford
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-21_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-22_
 <!-- QUOTE:END -->
 
 ## How it works
