@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Chop your own wood and it will warm you twice."
+> "Decide upon your major definite purpose in life and then organize all your activities around it."
 >
-> — Henry Ford
+> — Brian Tracy
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-22_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-23_
 <!-- QUOTE:END -->
 
 ## How it works
