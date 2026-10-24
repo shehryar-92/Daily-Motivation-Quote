@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Decide upon your major definite purpose in life and then organize all your activities around it."
+> "Believe in one thing too much and you have no room for new ideas."
 >
-> — Brian Tracy
+> — Ray Bradbury
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-23_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-24_
 <!-- QUOTE:END -->
 
 ## How it works
