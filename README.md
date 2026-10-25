@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Believe in one thing too much and you have no room for new ideas."
+> "Sorrow is how we learn to love."
 >
-> — Ray Bradbury
+> — Rita Mae Brown
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-24_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-25_
 <!-- QUOTE:END -->
 
 ## How it works
