@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Alone we can do so little; together we can do so much."
+> "Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound."
 >
-> — Helen Keller
+> — James Allen
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-26_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-27_
 <!-- QUOTE:END -->
 
 ## How it works
