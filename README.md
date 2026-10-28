@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound."
+> "I have never let my schooling interfere with my education."
 >
-> — James Allen
+> — Mark Twain
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-27_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-28_
 <!-- QUOTE:END -->
 
 ## How it works
