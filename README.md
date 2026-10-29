@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "I have never let my schooling interfere with my education."
+> "The worst part of success is trying to find someone who is happy for you."
 >
-> — Mark Twain
+> — Bette Midler
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-28_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-29_
 <!-- QUOTE:END -->
 
 ## How it works
