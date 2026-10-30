@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "The worst part of success is trying to find someone who is happy for you."
+> "No great mind has ever existed without a touch of madness."
 >
-> — Bette Midler
+> — Aristotle
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-29_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-10-30_
 <!-- QUOTE:END -->
 
 ## How it works
