@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Man suffers only because he takes seriously what the gods made for fun."
+> "It's the little things done consistently over time, straight from your heart, that have the greatest impact."
 >
-> — Alan Watts
+> — Unknown
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-10-31_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-01_
 <!-- QUOTE:END -->
 
 ## How it works
