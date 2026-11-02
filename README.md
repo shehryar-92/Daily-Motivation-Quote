@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "It's the little things done consistently over time, straight from your heart, that have the greatest impact."
+> "Although the world is full of suffering, it is also full of the overcoming of it."
 >
-> — Unknown
+> — Helen Keller
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-01_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-02_
 <!-- QUOTE:END -->
 
 ## How it works
