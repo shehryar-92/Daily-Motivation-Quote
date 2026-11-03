@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Although the world is full of suffering, it is also full of the overcoming of it."
+> "It always seems impossible until it's done."
 >
-> — Helen Keller
+> — Nelson Mandela
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-02_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-03_
 <!-- QUOTE:END -->
 
 ## How it works
