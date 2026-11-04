@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "It always seems impossible until it's done."
+> "Why do you stay in prison when the door is so wide open?"
 >
-> — Nelson Mandela
+> — Rumi
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-03_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-04_
 <!-- QUOTE:END -->
 
 ## How it works
