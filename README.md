@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Why do you stay in prison when the door is so wide open?"
+> "A leader is one who knows the way, goes the way, and shows the way."
 >
-> — Rumi
+> — Unknown
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-04_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-05_
 <!-- QUOTE:END -->
 
 ## How it works
