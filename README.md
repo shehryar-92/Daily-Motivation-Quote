@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "A leader is one who knows the way, goes the way, and shows the way."
+> "Man should fear never beginning to live."
 >
-> — Unknown
+> — Marcus Aurelius
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-05_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-06_
 <!-- QUOTE:END -->
 
 ## How it works
