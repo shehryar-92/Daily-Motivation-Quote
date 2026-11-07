@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Man should fear never beginning to live."
+> "All human wisdom is contained in these two words - Wait and Hope"
 >
-> — Marcus Aurelius
+> — Alexandre Dumas
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-06_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-07_
 <!-- QUOTE:END -->
 
 ## How it works
