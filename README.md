@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "All human wisdom is contained in these two words - Wait and Hope"
+> "Intelligence is the ability to adapt to change."
 >
-> — Alexandre Dumas
+> — Stephen Hawking
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-07_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-08_
 <!-- QUOTE:END -->
 
 ## How it works
