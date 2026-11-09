@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Intelligence is the ability to adapt to change."
+> "You cannot find peace by avoiding life."
 >
-> — Stephen Hawking
+> — Virginia Woolf
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-08_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-09_
 <!-- QUOTE:END -->
 
 ## How it works
