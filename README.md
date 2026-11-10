@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "You cannot find peace by avoiding life."
+> "People learn from their failures. Seldom do they learn anything from success."
 >
-> — Virginia Woolf
+> — Ryan Holiday
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-09_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-10_
 <!-- QUOTE:END -->
 
 ## How it works
