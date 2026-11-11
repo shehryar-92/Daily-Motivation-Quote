@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "People learn from their failures. Seldom do they learn anything from success."
+> "The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."
 >
-> — Ryan Holiday
+> — Bob Marley
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-10_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-11_
 <!-- QUOTE:END -->
 
 ## How it works
