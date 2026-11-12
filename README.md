@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for."
+> "The man who moved the mountain was the one who began carrying away the smallest stones."
 >
-> — Bob Marley
+> — Zen Proverb
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-11_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-12_
 <!-- QUOTE:END -->
 
 ## How it works
