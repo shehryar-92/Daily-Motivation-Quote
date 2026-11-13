@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "The man who moved the mountain was the one who began carrying away the smallest stones."
+> "We are shaped and fashioned by what we love."
 >
-> — Zen Proverb
+> — Johann Wolfgang von Goethe
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-12_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-13_
 <!-- QUOTE:END -->
 
 ## How it works
