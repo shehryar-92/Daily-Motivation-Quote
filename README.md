@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "We are shaped and fashioned by what we love."
+> "We can see through others only when we can see through ourselves."
 >
-> — Johann Wolfgang von Goethe
+> — Bruce Lee
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-13_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-14_
 <!-- QUOTE:END -->
 
 ## How it works
