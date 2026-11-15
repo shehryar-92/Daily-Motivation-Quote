@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "We can see through others only when we can see through ourselves."
+> "Life is growth. If we stop growing, technically and spiritually, we are as good as dead."
 >
-> — Bruce Lee
+> — Morihei Ueshiba
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-14_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-15_
 <!-- QUOTE:END -->
 
 ## How it works
