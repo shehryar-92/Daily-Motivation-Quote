@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Life is growth. If we stop growing, technically and spiritually, we are as good as dead."
+> "Failure comes from ego, greed, envy, fear, and imitation."
 >
-> — Morihei Ueshiba
+> — Warren Buffett
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-15_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-16_
 <!-- QUOTE:END -->
 
 ## How it works
