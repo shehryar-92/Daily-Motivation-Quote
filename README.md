@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Failure comes from ego, greed, envy, fear, and imitation."
+> "It's just a bad day, not a bad life."
 >
-> — Warren Buffett
+> — Mary Engelbreit
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-16_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-17_
 <!-- QUOTE:END -->
 
 ## How it works
