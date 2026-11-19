@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "The more reasons you have for achieving your goal, the more determined you will become."
+> "When we have our body and mind in order, everything else will exist in the right place, in the right way."
 >
-> — Brian Tracy
+> — Shunryu Suzuki
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-18_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-19_
 <!-- QUOTE:END -->
 
 ## How it works
