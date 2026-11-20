@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "When we have our body and mind in order, everything else will exist in the right place, in the right way."
+> "Only in the agony of parting do we look into the depths of love."
 >
-> — Shunryu Suzuki
+> — George Eliot
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-19_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-20_
 <!-- QUOTE:END -->
 
 ## How it works
