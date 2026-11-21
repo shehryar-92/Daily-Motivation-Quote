@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Only in the agony of parting do we look into the depths of love."
+> "Hardships often prepare ordinary people for an extraordinary destiny."
 >
-> — George Eliot
+> — C.S. Lewis
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-20_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-21_
 <!-- QUOTE:END -->
 
 ## How it works
