@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Hardships often prepare ordinary people for an extraordinary destiny."
+> "Listen to the secret sound, the real sound, which is inside you."
 >
-> — C.S. Lewis
+> — Kabir
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-21_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-22_
 <!-- QUOTE:END -->
 
 ## How it works
