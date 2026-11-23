@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Listen to the secret sound, the real sound, which is inside you."
+> "Decide what your truth is. Then live it."
 >
-> — Kabir
+> — Kamal Ravikant
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-22_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-23_
 <!-- QUOTE:END -->
 
 ## How it works
