@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Decide what your truth is. Then live it."
+> "When you reach the end of your rope, tie a knot in it and hang on."
 >
-> — Kamal Ravikant
+> — Franklin D. Roosevelt
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-23_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-24_
 <!-- QUOTE:END -->
 
 ## How it works
