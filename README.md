@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "When you reach the end of your rope, tie a knot in it and hang on."
+> "It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it."
 >
-> — Franklin D. Roosevelt
+> — Gurbaksh Chahal
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-24_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-25_
 <!-- QUOTE:END -->
 
 ## How it works
