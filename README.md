@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "It doesn't matter if the glass is half empty or half full. Be grateful you have a glass - you're the only person that can decide what's in it."
+> "Circumstances do not make the man, they reveal him."
 >
-> — Gurbaksh Chahal
+> — James Allen
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-25_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-26_
 <!-- QUOTE:END -->
 
 ## How it works
