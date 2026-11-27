@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Circumstances do not make the man, they reveal him."
+> "Happiness depends upon ourselves."
 >
-> — James Allen
+> — Aristotle
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-26_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-27_
 <!-- QUOTE:END -->
 
 ## How it works
