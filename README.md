@@ -6,11 +6,11 @@ every morning and displays it right here.
 ## Today's Quote
 
 <!-- QUOTE:START -->
-> "Happiness depends upon ourselves."
+> "Work is always an antidote to depression."
 >
-> — Aristotle
+> — Eleanor Roosevelt
 
-_Updated daily at 07:00 AM PKT · last refreshed 2026-11-27_
+_Updated daily at 07:00 AM PKT · last refreshed 2026-11-28_
 <!-- QUOTE:END -->
 
 ## How it works
